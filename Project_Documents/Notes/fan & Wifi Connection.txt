@@ -1,0 +1,35 @@
+# Important Note – Code Upload and Fan Connection
+
+## During Code Upload
+
+Before uploading code to the Arduino, disconnect either the RX or TX wire of the Wi-Fi module.
+
+* If the RX/TX wire remains connected, the code may fail to upload.
+* So, before uploading, disconnect **either RX or TX**.
+* After the code is uploaded successfully, reconnect the wire properly.
+
+## Fan Connection (Without Diode)
+
+Using the **IRFZ44 MOSFET** for fan connection:
+
+* **Fan (+)** → **5V**
+* **Fan (-)** → **MOSFET Drain**
+* **MOSFET Source** → **GND**
+* **Arduino Pin** → **220Ω Resistor** → **MOSFET Gate**
+* **Gate** → **10kΩ Resistor** → **GND**
+
+## Connection Flow
+
+**Arduino Pin → 220Ω Resistor → Gate → IRFZ44**
+
+**Fan (+) → 5V**
+
+**Fan (-) → MOSFET Drain**
+
+**MOSFET Source → GND**
+
+**Gate → 10kΩ Resistor → GND**
+
+## Reference Video
+
+https://www.youtube.com/watch?v=UCQryxP97TM&t=326s
