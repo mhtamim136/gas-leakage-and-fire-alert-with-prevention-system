@@ -8,6 +8,7 @@
 [![Sensors](https://img.shields.io/badge/Sensors-MQ--2_Gas_%26_IR_Flame-FF6F00?style=for-the-badge)](https://github.com/mhtamim136/gas-leakage-and-fire-alert-with-prevention-system)
 [![IoT Interface](https://img.shields.io/badge/IoT-ESP8266_ESP--01_%7C_RemoteXY-43B02A?style=for-the-badge&logo=espressif&logoColor=white)](https://remotexy.com/)
 [![Simulation](https://img.shields.io/badge/Simulation-Proteus_8_Professional-0288D1?style=for-the-badge)](https://www.labcenter.com/)
+[![Watch Demo Video](https://img.shields.io/badge/🎬_Demo_Video-Google_Drive-E50914?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GnOYfKX4SOlqK7fkQptDbhzQldTlPoIh/view?usp=sharing)
 [![Academic Project](https://img.shields.io/badge/AIUB-COE3104_Capstone-ED1C24?style=for-the-badge)](https://www.aiub.edu/)
 
 </div>
@@ -31,6 +32,7 @@ Unlike traditional passive detectors that merely sound an alarm, this system pro
 
 ## 📋 Table of Contents
 
+- [Live Video Demonstration](#-live-video-demonstration)
 - [Visual Showcase & Circuit Diagrams](#-visual-showcase--circuit-diagrams)
 - [Key Features](#-key-features)
 - [System Architecture & Working Principle](#-system-architecture--working-principle)
@@ -43,6 +45,22 @@ Unlike traditional passive detectors that merely sound an alarm, this system pro
 - [Project Documentation](#-project-documentation)
 - [Team & Academic Credits](#-team--academic-credits)
 - [Author & Contact](#-author--contact)
+
+---
+
+## 🎬 Live Video Demonstration
+
+Watch the complete hardware prototype in action — demonstrating real-time butane gas detection, threshold crossing, audio-visual alarm triggering, automated exhaust fan ventilation, and servo-driven gas cylinder shutoff:
+
+<div align="center">
+
+[![Watch Hardware Demo Video](https://raw.githubusercontent.com/mhtamim136/gas-leakage-and-fire-alert-with-prevention-system/main/Screenshots/03_Hardware_Project_Setup_1.png)](https://drive.google.com/file/d/1GnOYfKX4SOlqK7fkQptDbhzQldTlPoIh/view?usp=sharing)
+
+### 📺 [▶ Click Here to Watch Full Demo Video on Google Drive](https://drive.google.com/file/d/1GnOYfKX4SOlqK7fkQptDbhzQldTlPoIh/view?usp=sharing)
+
+> 💡 *Click the thumbnail image or the text link above to watch the physical testing demonstration hosted on Google Drive.*
+
+</div>
 
 ---
 
@@ -280,6 +298,7 @@ gas-leakage-and-fire-alert-with-prevention-system/
 
 Comprehensive academic documentation and presentation materials are included:
 
+- 🎥 [**Watch Prototype Demonstration Video (Google Drive)**](https://drive.google.com/file/d/1GnOYfKX4SOlqK7fkQptDbhzQldTlPoIh/view?usp=sharing)
 - 📑 [**Download Full Project Report (DOCX)**](Project_Documents/MAES_H_G07_Project_report.docx)
 - 📊 [**Download Project Presentation (PPTX)**](Project_Documents/MAES_H_G7_Project_PPT.pptx)
 - 📝 [**Download Project Proposal (PDF)**](Project_Documents/Project%20proposal.pdf)
